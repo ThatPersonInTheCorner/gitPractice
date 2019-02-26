@@ -1,2 +1,2 @@
-#Gitting Some Practic
+# Gitting Some Practice
 #
